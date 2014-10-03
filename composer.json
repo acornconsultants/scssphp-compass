@@ -1,5 +1,5 @@
 {
-    "name": "leafo/scssphp-compass",
+    "name": "clansman-nl/scssphp-compass",
     "description": "Compass for scssphp",
     "homepage": "http://leafo.net/scssphp/",
     "require": {
